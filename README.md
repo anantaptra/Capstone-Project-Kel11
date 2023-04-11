@@ -1,3 +1,3 @@
-Capstone Project sebagai syarat kelulusan dari Kampus Merdeka bersama MariBelajar
+Capstone Project as a graduation requirement for Kampus Merdeka in collaboration with MariBelajar.
 
-Membuat Website menggunakan Microsoft Azure
+Create Website using Microsoft Azure as a Service
